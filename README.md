@@ -24,10 +24,8 @@ My work sits where Bayesian statistics meets marketing spend: marketing mix mode
 
 | Repo | What you'll find |
 |---|---|
-| [Data-Science-ExploraBI-BusinessAnalytics](https://github.com/vjthecoder/Data-Science-ExploraBI-BusinessAnalytics) | Marketing analytics notebooks: sales trend and seasonality decomposition, the groundwork for MMM |
-| [Data-Science-ML-and-AI](https://github.com/vjthecoder/Data-Science-ML-and-AI) | A structured Python learning path: fundamentals → maths & stats → data analysis → machine learning → AI |
-| [Data-Science-Probabilistic-AI](https://github.com/vjthecoder/Data-Science-Probabilistic-AI) | Notes on probabilistic modeling and Bayesian inference *(in progress)* |
-| [Ops-Tech.Dev.Cloud.Data.ML.AI](https://github.com/vjthecoder/Ops-Tech.Dev.Cloud.Data.ML.AI) | Automation and ops across dev, cloud, data and ML (DVC setup and more) |
+| [Data-Science-ExploraBI-BusinessAnalytics](https://github.com/vjthecoder/Data-Science-ExploraBI-BusinessAnalytics) | A Bayesian MMM tested against a known truth: simulated data with set adstock and saturation, fitted with PyMC-Marketing, checked for convergence, then scored on how well it recovers parameters and ROAS. Plus trend and seasonality decomposition. |
+| [Data-Science-ML-and-AI](https://github.com/vjthecoder/Data-Science-ML-and-AI) | A structured Python learning path: fundamentals → maths & stats → data analysis → machine learning |
 
 ---
 
