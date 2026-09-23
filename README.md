@@ -29,9 +29,9 @@ My work sits where Bayesian statistics meets marketing spend: marketing mix mode
 
 ---
 
-#### 🎙️ ViVe Measurement
+#### 🎙️ Vive Measurement
 
-I write and talk about marketing measurement under **ViVe Measurement**: the questions the MMM community feels but rarely says out loud.
+I write and talk about marketing measurement under **Vive Measurement**: the questions the MMM community feels but rarely says out loud.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijayvelpula-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayvelpula)
 [![X](https://img.shields.io/badge/X-@VelpulaVijay-000000?logo=x&logoColor=white)](https://x.com/VelpulaVijay)
